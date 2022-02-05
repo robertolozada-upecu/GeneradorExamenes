@@ -1,5 +1,6 @@
 using FluentAssertions;
 using Xunit;
+using GeneradorExamenes;
 
 namespace GeneradorExamenes_Test
 {
