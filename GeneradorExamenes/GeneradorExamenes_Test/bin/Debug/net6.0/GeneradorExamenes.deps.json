@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GeneradorExamenes/1.0.0": {
+        "runtime": {
+          "GeneradorExamenes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeneradorExamenes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
